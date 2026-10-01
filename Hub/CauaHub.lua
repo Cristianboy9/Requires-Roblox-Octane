@@ -1,2 +1,5 @@
+-- Works on revivals: ???
+-- Works on roblox: ???
+
 -- Password is: 102-291-2391-2129-219-2020
 require(6174615549).CauaHub("YourName")

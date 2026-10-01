@@ -1,3 +1,6 @@
+-- Works on revivals: ???
+-- Works on roblox: ???
+
 --[[
 ]]
 -- // Slopchat, by #66xc6 (@Static) on disco

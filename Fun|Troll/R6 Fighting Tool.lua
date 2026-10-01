@@ -1,3 +1,6 @@
+-- Works on revivals: ???
+-- Works on roblox: ???
+
 -- Instructions:
 -- Q = Kick Left
 -- E = Kick Right

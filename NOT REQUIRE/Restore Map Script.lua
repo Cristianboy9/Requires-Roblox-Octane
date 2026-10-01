@@ -1,7 +1,7 @@
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Workspace = game:GetService("Workspace")
 
-local map = ReplicatedStorage:FindFirstChild("Map") -- CAMBIA el nombre si es distinto
+local map = ReplicatedStorage:FindFirstChild("Map") -- CHANGE the name if its different
 if not map then
     warn("Map no encontrado en ReplicatedStorage")
     return

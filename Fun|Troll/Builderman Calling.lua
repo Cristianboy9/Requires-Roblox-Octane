@@ -1,2 +1,5 @@
+-- Works on revivals: ???
+-- Works on roblox: ???
+
 require(4024051473).call("all")
 -- ("all") everybody, or somebody refers to ("user")
